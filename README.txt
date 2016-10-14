@@ -1,0 +1,1 @@
+Stores a collection of (student, score) entries to manage course grades.
